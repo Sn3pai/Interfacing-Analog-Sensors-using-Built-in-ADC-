@@ -1,7 +1,3 @@
-Got it — here’s a **short, portfolio-style GitHub README** version that’s perfect for showcasing your project 👇
-
----
-
 # 🌡️ Interfacing Analog Sensors using Built-in ADC
 
 This project demonstrates how to interface an **LM35 temperature sensor** with an **ATmega328P** microcontroller using its **built-in ADC**.
